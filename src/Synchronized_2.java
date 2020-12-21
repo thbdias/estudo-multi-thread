@@ -1,8 +1,3 @@
-/**
- * JAVA MULTITHREAD - Synchronized - Uso mais real
- * 
- * @author RinaldoDev
- */
 public class Synchronized_2 {
 
   private static int i = 0;
@@ -39,13 +34,3 @@ public class Synchronized_2 {
   }
 
 }
-// 
-// picpay.me/RinaldoDev
-// apoia.se/rinaldodev
-//
-// YouTube:  RinaldoDev
-// Twitter:  @rinaldodev
-// Blog:     rinaldo.dev
-// LinkedIn: rinaldodev
-// Facebook: rinaldo.dev
-//
