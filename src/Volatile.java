@@ -1,7 +1,4 @@
-/**
- * JAVA MULTITHREAD - Volatile e Yield
- * @author RinaldoDev
- */
+
 public class Volatile {
 
   private static int numero = 0;
@@ -25,13 +22,3 @@ public class Volatile {
     preparado = true;
   }
 }
-//
-// picpay.me/RinaldoDev
-// apoia.se/rinaldodev
-//
-// YouTube:  RinaldoDev
-// Twitter:  @rinaldodev
-// Blog:     rinaldo.dev
-// LinkedIn: rinaldodev
-// Facebook: rinaldo.dev
-//

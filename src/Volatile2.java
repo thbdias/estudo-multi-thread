@@ -1,9 +1,6 @@
 import java.lang.Thread.State;
 
-/**
- * JAVA MULTITHREAD - Volatile e Yield - Exemplo reproduzível
- * @author RinaldoDev
- */
+
 public class Volatile2 {
 
   private static volatile int numero = 0;
@@ -51,13 +48,3 @@ public class Volatile2 {
     }
   }
 }
-//
-// picpay.me/RinaldoDev
-// apoia.se/rinaldodev
-//
-// YouTube:  RinaldoDev
-// Twitter:  @rinaldodev
-// Blog:     rinaldo.dev
-// LinkedIn: rinaldodev
-// Facebook: rinaldo.dev
-//
